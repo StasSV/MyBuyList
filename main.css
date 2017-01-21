@@ -1,0 +1,64 @@
+# MyBuyList
+.bl-background {
+    background: #cdcbcb;
+    padding: 10px;
+    margin: 80px;
+}
+
+.bl-list {
+    background: white;
+    margin-bottom: 1px;
+}
+
+.bl-bought {
+    background: white;
+}
+
+/*Кнопки*/
+.bl-label {
+    background: #cdcbcb;
+}
+.bl-label1 {
+    background: #cdcbcb;
+}
+.bl-label2 {
+    background: orange;
+}
+.bl-plus {
+    background: LimeGreen;
+}
+.bl-minus {
+    background: Salmon;
+    
+}
+.bl-cross {
+    background: FireBrick;
+    float: right;
+}
+.boughtButton {
+    float: right;
+}
+.right {
+width: 150px;
+height: 85px;
+background-color: #cdcbcb;
+float: right;
+padding: 10px;
+}.
+.left {
+background-color: blue;
+padding: 10px;
+}
+.container {
+background: orange;
+width: 100%;
+}.
+center {
+background: white;
+width: 100%;
+/*Вирівнює елемент по центру*/
+margin: auto;
+/*Ширина екрану після якої з’являться
+поля*/
+max-width: 700px;
+}
